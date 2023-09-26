@@ -1,5 +1,7 @@
 I made this application just for get in touch of Next 13 by using this tutorial [youtube.com/watch?v=Y6KDk5iyrYE](https://www.youtube.com/watch?v=Y6KDk5iyrYE) and added some changes such as some styling and using TypeScript instead of JavaScript.
 
+## Live version : [next-13-isneverdead.vercel.app](https://next-13-isneverdead.vercel.app/)
+
 ## how to run this app
 
 First, clone this repo:
