@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { FaStar, FaCodeBranch, FaEye } from 'react-icons/fa'
 async function fetchRepos() {
-    const response = await fetch('https://api.github.com/users/isneverdead/repos', {
+    const response = await fetch('https://api.github.com/users/isneverdead/repos?per_page=100', {
         next: {
             revalidate: 60
         }
